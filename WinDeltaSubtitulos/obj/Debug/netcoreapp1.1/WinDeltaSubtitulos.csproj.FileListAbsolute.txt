@@ -1,0 +1,9 @@
+E:\Repo_Hub\WinDeltaSubtitulos\WinDeltaSubtitulos\bin\Debug\netcoreapp1.1\WinDeltaSubtitulos.deps.json
+E:\Repo_Hub\WinDeltaSubtitulos\WinDeltaSubtitulos\bin\Debug\netcoreapp1.1\WinDeltaSubtitulos.runtimeconfig.json
+E:\Repo_Hub\WinDeltaSubtitulos\WinDeltaSubtitulos\bin\Debug\netcoreapp1.1\WinDeltaSubtitulos.runtimeconfig.dev.json
+E:\Repo_Hub\WinDeltaSubtitulos\WinDeltaSubtitulos\obj\Debug\netcoreapp1.1\WinDeltaSubtitulos.csprojResolveAssemblyReference.cache
+E:\Repo_Hub\WinDeltaSubtitulos\WinDeltaSubtitulos\obj\Debug\netcoreapp1.1\WinDeltaSubtitulos.AssemblyInfo.cs
+E:\Repo_Hub\WinDeltaSubtitulos\WinDeltaSubtitulos\bin\Debug\netcoreapp1.1\WinDeltaSubtitulos.dll
+E:\Repo_Hub\WinDeltaSubtitulos\WinDeltaSubtitulos\bin\Debug\netcoreapp1.1\WinDeltaSubtitulos.pdb
+E:\Repo_Hub\WinDeltaSubtitulos\WinDeltaSubtitulos\obj\Debug\netcoreapp1.1\WinDeltaSubtitulos.dll
+E:\Repo_Hub\WinDeltaSubtitulos\WinDeltaSubtitulos\obj\Debug\netcoreapp1.1\WinDeltaSubtitulos.pdb
